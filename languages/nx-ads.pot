@@ -1,0 +1,392 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MAIRDUMONT NETLETIX Ads\n"
+"POT-Creation-Date: 2019-02-21 11:35+0100\n"
+"PO-Revision-Date: 2019-02-13 13:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: nx-ads.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-nx-ads-admin.php:43
+msgid "Insert MD-NX ad container"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:52
+msgid "Settings"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:79
+#, php-format
+msgid ""
+"<strong>%s</strong> successfully activated. The Settings are available <a "
+"href=\"%s\">on this page</a>."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:93
+#, php-format
+msgid ""
+"<strong>%s</strong> successfully migrated the data from \"Netzathleten Banner"
+"\""
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:96
+msgid ""
+"Please note, it is recommended to disable the old \"Netzathleten Banner\" "
+"plugin, after adding all settings correctly to the new one."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:111
+#, php-format
+msgid ""
+"<strong>%s</strong> has found the active plugin \"Netzathleten Banner\".<br/"
+">Should the data mirgrated to the new plugin?"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:119
+msgid "Ignore"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:120
+msgid "Migrate data"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:171
+msgid "Zone"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:175
+msgid "Default"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:187
+msgid "Hide ads"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:217
+msgid "MDNX Banner preview"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:251
+#, php-format
+msgid "Configuration | %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:268
+msgid "Please enter your personal site ID here"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:276
+msgid ""
+"Below you can customize the positioning of the banner ad.<br/>The individual "
+"div containers are automatically given the .nx-container-<strong>container-"
+"name</strong> class (for example .nx-container-top for container top), "
+"through which the styles can be addressed."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:288
+#, php-format
+msgid "Uninstall %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:293
+#, php-format
+msgid ""
+"Check this if you would like to remove ALL %s data upon plugin deletion. All "
+"settings will be unrecoverable."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:306
+#, php-format
+msgid "Hide banner at %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:332
+msgid ""
+"Subsequently, you can control the placement within the page. There are four "
+"ways to integrate an ad container within the page. First you have to add the "
+"container via the dropdown below the overview and apply the changes."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:336
+msgid ""
+"In the following overview, you specify the ID or class of the parent page "
+"element under which the ad container should appear."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:337
+#, php-format
+msgid "You use the widget \"%s\" and select an activated ad container there."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:339
+#, php-format
+msgid ""
+"Within the WordPress Block Editor please use the function \"Add block\" - "
+"\"Widgets\" - Shortcode\" and insert the required shortcode of the "
+"container, for example %%privacy%%."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:341
+msgid ""
+"You use the button \"Insert MDNX ad container\" within the editor of a page "
+"or post."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:343
+msgid "You use the shortcodes to place within your (child) theme."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:380
+#, php-format
+msgid ""
+"In the following, you can completely prevent the global delivery of "
+"advertising material for certain page areas. You can make individual "
+"settings in the page or contribution settings in the \"%s\" section or you "
+"define in the overview below which containers should not be used in certain "
+"areas."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:388
+#, php-format
+msgid ""
+"For marketing, certain pages can be considered differently. These areas are "
+"marked by zones. Please define here first the desired zone (only in "
+"agreement with %s) and then assign them in the settings of the respective "
+"page or a contribution."
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:554
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:561
+#, php-format
+msgid "%s Restrict visibility %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:568
+#, php-format
+msgid "%s Containers %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:575
+#, php-format
+msgid "%s Misc"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:583
+msgid "Site-ID"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:591
+#, php-format
+msgid "Custom CSS %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:611
+msgid "Homepage"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:615
+msgid "Subpages"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:636
+#, php-format
+msgid "%s Zone List %s"
+msgstr ""
+
+#: admin/class-nx-ads-admin.php:671
+#, php-format
+msgid "Place banner from %s"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:6
+#, php-format
+msgid "%s Ad configuration"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:16
+msgid "General"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:17
+#: admin/partials/nx-ads-admin-display.php:34
+msgid "Banners"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:18
+msgid "Zones"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:19
+msgid "Misc"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:50
+msgid "Container-Name"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:51
+msgid "Hide"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:52
+msgid "Placement"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:53
+msgid "Shortcode"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:80
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:85
+msgid "Add"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:106
+msgid "ID"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:107
+msgid "Zone-Name"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:108
+msgid "Description"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:126
+msgid "Add new zone"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:188
+msgid "Name"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:189
+msgid "Should the zone %name% be removed?"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-display.php:190
+msgid "Should the container %name% be removed?"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-widget.php:3
+msgid "Container:"
+msgstr ""
+
+#: admin/partials/nx-ads-admin-widget.php:6
+msgid "Please choose"
+msgstr ""
+
+#: admin/partials/row-container.php:9
+#, php-format
+msgid "Types (<span data-types>%d</span> &sol; %d)"
+msgstr ""
+
+#: admin/partials/row-container.php:30
+msgid "ID and or class selectors"
+msgstr ""
+
+#: admin/partials/row-container.php:48
+#, php-format
+msgid ""
+"This tag serves to deliver the contact details of your marketer %s GmbH & "
+"Co. KG. Please insert the shortcode <strong>%%sales%%</strong> in the place "
+"of your imprint, where the contact details should be displayed. You can "
+"deposit the shortcode directly in the desired page or contribution."
+msgstr ""
+
+#: admin/partials/row-container.php:52
+#, php-format
+msgid ""
+"This tag serves to deliver the privacy policy of your marketer %s GmbH & Co. "
+"KG. Please add the shortcode <strong>%%privacy%%</strong> to your privacy "
+"policy, where our privacy policy should be displayed. You can deposit the "
+"shortcode directly in the desired page or contribution."
+msgstr ""
+
+#: admin/partials/row-container.php:73
+msgid ""
+"The inread container can be globally set for certain categories, so as to "
+"control the delivery of the ad individually in the article pages. Please "
+"select the desired category (Default: All Categories), select the desired "
+"selector from the dropdown and enter the number of how many selector the ad "
+"should be included."
+msgstr ""
+
+#: admin/partials/row-container.php:80
+msgid "Entries"
+msgstr ""
+
+#: admin/partials/row-container.php:91
+msgid "HTML-Tag"
+msgstr ""
+
+#: admin/partials/row-container.php:92
+msgid "Position"
+msgstr ""
+
+#: admin/partials/row-container.php:93
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/row-container.php:111
+msgid "New entry"
+msgstr ""
+
+#: admin/partials/row-inread.php:32
+msgid "All categories"
+msgstr ""
+
+#: admin/partials/row-zone.php:7
+msgid "Zone Name"
+msgstr ""
+
+#: admin/partials/row-zone.php:12
+msgid "A short description"
+msgstr ""
+
+#: nx-ads.php:30 nx-ads.php:31
+#, php-format
+msgid "%s Ads"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MAIRDUMONT NETLETIX Ads"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.mairdumont-netletix.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin is only for publishers who has a marketing contract with "
+"MAIRDUMONT NETLETIX. With the Ads plugin you can comfortably place and "
+"configure the specific ad containers dynamically as well as shortcodes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MAIRDUMONT NETLETIX"
+msgstr ""
